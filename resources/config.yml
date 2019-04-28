@@ -1,0 +1,6 @@
+# blocked commands (with slash & lower case)
+world:
+  - "/test"
+  - "/test2"
+# message that shows when player try to use blocked command (use & for colors)
+message: '&cThis command is blocked!'
